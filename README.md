@@ -3,7 +3,7 @@
 ## IDE
 * Keil-C
 
-## MCU:
+## MCU
 * Silicon Lab C8051F506
 * Silicon Lab C8051F580
 * Megawin MG82FG5B32
